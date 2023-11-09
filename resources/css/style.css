@@ -12,6 +12,7 @@ body {
     --bg-dark: #0a1f24;
     --text-light: #ffffff;
     --text-dark: #0a1f24;
+    --hover-color: #94b4eb;
     --fontDancing: 'Dancing Script';
     --fontGreat: 'Great Vibes';
     --fontGaba: 'Gabarito';
@@ -52,5 +53,5 @@ body {
     margin-right: auto;
 }
 .link a:hover {
-    color: var(--text-dark);
+    color: var(--hover-color);
 }
