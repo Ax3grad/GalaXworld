@@ -10,9 +10,3 @@ As the website is under development, you can explore the existing features and p
 ## Contributing
 
 Contributions to this project are currently not accepted as it is a personal website. However, I appreciate your interest and feedback. Feel free to fork the repository and modify it for your own use, but please do not submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
