@@ -1,5 +1,3 @@
-# My Personal Website
-
 **Brief Description:**
 This repository contains the source code for my personal website, which is currently a work in progress. The website is designed with the purpose of showcasing my portfolio and skills to potential employers. It is 100% handmade by me and is intended for professional use.
 
